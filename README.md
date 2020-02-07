@@ -4,7 +4,7 @@
 
 ## Reference :
 
-http://localhost/wordpress/raspberry-pi-gui-gpio-advanced/
+http://mysitewp.biz.ht/raspberry-pi-gui-gpio-advanced/
 
 ## Code :
 
