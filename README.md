@@ -8,9 +8,8 @@ http://mysitewp.biz.ht/raspberry-pi-gui-gpio-advanced/
 
 ## Code :
 
-```
+```python
 #! /usr/bin/python3
-
 from tkinter import *
 from tkinter import font
 import tkinter as tk
